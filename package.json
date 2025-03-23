@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "Advent of Code 2024 - Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "tsx": "^4.19.3"
+  },
+  "type": "module"
+}
