@@ -1,0 +1,3280 @@
+[
+    {
+        "product_uid": "6447344",
+        "favourite_uid": null,
+        "eans": [
+            "0000001438130"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's Skin on ASC Scottish Salmon Fillets x2 240g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/6447344/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-responsibly-sourced-scottish-salmon-fillet-x2-240g",
+        "unit_price": {
+            "price": 15.63,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 3.75,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10543161",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10543161\u0026productUid=6447344\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 25p:  Was £4.00 Now £3.75",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 4,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 4 days",
+                "text": "Typical life 4 days",
+                "alt_text": "Typical life 4 days",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "6447344",
+            "total": 189,
+            "average_rating": 3.2804
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/6447344/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "13346",
+                "name": "Filleted \u0026 whole fish"
+            },
+            {
+                "id": "13345",
+                "name": "All fish \u0026 seafood"
+            },
+            {
+                "id": "248078",
+                "name": "Summer"
+            },
+            {
+                "id": "276035",
+                "name": "Top sellers"
+            },
+            {
+                "id": "314363",
+                "name": "Salmon, tuna \u0026 trout"
+            },
+            {
+                "id": "394355",
+                "name": "Build a salad"
+            },
+            {
+                "id": "388383",
+                "name": "Special offers"
+            },
+            {
+                "id": "383909",
+                "name": "Fish \u0026 seafood"
+            },
+            {
+                "id": "364358",
+                "name": "Easter meals"
+            },
+            {
+                "id": "383904",
+                "name": "All BBQ meat \u0026 fish"
+            },
+            {
+                "id": "410358",
+                "name": "Special offers"
+            },
+            {
+                "id": "387966",
+                "name": "Build a salad"
+            },
+            {
+                "id": "438352",
+                "name": "5x Nectar points"
+            },
+            {
+                "id": "500860",
+                "name": "Better for you meat \u0026 fish"
+            },
+            {
+                "id": "495871",
+                "name": "Build a stir fry with Amoy"
+            },
+            {
+                "id": "490871",
+                "name": "Eat more fish"
+            },
+            {
+                "id": "495872",
+                "name": "Build a stir fry with Amoy"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "478359",
+                "name": "BBQ"
+            },
+            {
+                "id": "550355",
+                "name": "ASC certified seafood"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "3052068",
+        "favourite_uid": null,
+        "eans": [
+            "5740900805408"
+        ],
+        "product_type": "BASIC",
+        "name": "Lurpak Slightly Salted Spreadable Blend of Butter \u0026 Rapeseed Oil 500g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/3052068/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/lurpak-slightly-salted-spreadable-500g",
+        "unit_price": {
+            "price": 7.5,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 3.75,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542535",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542535\u0026productUid=3052068\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £3.75: Save £1.25",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 5,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "3052068",
+            "total": 32,
+            "average_rating": 4.375
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/3052068/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267411",
+                "name": "Spreadable butter"
+            },
+            {
+                "id": "267410",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "274772",
+                "name": "Special offers"
+            },
+            {
+                "id": "388361",
+                "name": "Special offers"
+            },
+            {
+                "id": "428991",
+                "name": "Top rated"
+            },
+            {
+                "id": "387879",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "428875",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "387874",
+                "name": "Dairy essentials"
+            },
+            {
+                "id": "410383",
+                "name": "Special offers"
+            },
+            {
+                "id": "410361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387880",
+                "name": "Spreadable butter"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428376",
+                "name": "Special offers"
+            },
+            {
+                "id": "463872",
+                "name": "Special offers (valid for deliveries until 25th March)"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "428876",
+                "name": "Spreadable butter"
+            },
+            {
+                "id": "497374",
+                "name": "Lurpak"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7947559",
+        "favourite_uid": null,
+        "eans": [
+            "0000000349215"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's Houmous 200g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7947559/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-houmous-200g",
+        "unit_price": {
+            "price": 0.5,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 1,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10544346",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10544346\u0026productUid=7947559\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £1.00: Save 35p",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 1.35,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7947559",
+            "total": 27,
+            "average_rating": 2.3704
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7947559/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "248078",
+                "name": "Summer"
+            },
+            {
+                "id": "267529",
+                "name": "All coleslaw, salads \u0026 dips"
+            },
+            {
+                "id": "265255",
+                "name": "Picnic"
+            },
+            {
+                "id": "267517",
+                "name": "Houmous \u0026 dips"
+            },
+            {
+                "id": "274774",
+                "name": "Special offers"
+            },
+            {
+                "id": "346853",
+                "name": "Christmas party food"
+            },
+            {
+                "id": "352859",
+                "name": "Party food"
+            },
+            {
+                "id": "346852",
+                "name": "All Christmas party"
+            },
+            {
+                "id": "355376",
+                "name": "Stock up"
+            },
+            {
+                "id": "431852",
+                "name": "BBQ"
+            },
+            {
+                "id": "431854",
+                "name": "Salads \u0026 sides"
+            },
+            {
+                "id": "410368",
+                "name": "Special offers"
+            },
+            {
+                "id": "410370",
+                "name": "Special offers"
+            },
+            {
+                "id": "419857",
+                "name": "Half term"
+            },
+            {
+                "id": "428985",
+                "name": "Houmous, guacamole \u0026 flavoured dips"
+            },
+            {
+                "id": "450357",
+                "name": "All Christmas"
+            },
+            {
+                "id": "462356",
+                "name": "Special offers"
+            },
+            {
+                "id": "558855",
+                "name": "Back to uni"
+            },
+            {
+                "id": "494353",
+                "name": "Party food"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "410853",
+                "name": "Cosy night in"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "432368",
+                "name": "Special offers"
+            },
+            {
+                "id": "431864",
+                "name": "Summer is coming"
+            },
+            {
+                "id": "428384",
+                "name": "Special offers"
+            },
+            {
+                "id": "494852",
+                "name": "Special offers"
+            },
+            {
+                "id": "537360",
+                "name": "Dietary \u0026 lifestyle"
+            },
+            {
+                "id": "478373",
+                "name": "Lunchtime inspiration"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "1081459",
+        "favourite_uid": null,
+        "eans": [
+            "0000001081473"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's Coleslaw, Taste the Difference 300g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/1081459/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-coleslaw--taste-the-difference-300g",
+        "unit_price": {
+            "price": 0.42,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 1.25,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10543241",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10543241\u0026productUid=1081459\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £1.25: Save 25p",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 1.5,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "1081459",
+            "total": 113,
+            "average_rating": 3.2212
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/1081459/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "13295",
+                "name": "All salads"
+            },
+            {
+                "id": "248078",
+                "name": "Summer"
+            },
+            {
+                "id": "234766",
+                "name": "Special offers"
+            },
+            {
+                "id": "258773",
+                "name": "All prepared fruit, veg \u0026 salad"
+            },
+            {
+                "id": "267529",
+                "name": "All coleslaw, salads \u0026 dips"
+            },
+            {
+                "id": "199709",
+                "name": "Coleslaw and salad pots"
+            },
+            {
+                "id": "199711",
+                "name": "Ready to eat salad"
+            },
+            {
+                "id": "267530",
+                "name": "Coleslaw"
+            },
+            {
+                "id": "274774",
+                "name": "Special offers"
+            },
+            {
+                "id": "279836",
+                "name": "Special offers"
+            },
+            {
+                "id": "314380",
+                "name": "Coleslaw, salad \u0026 dips"
+            },
+            {
+                "id": "314381",
+                "name": "Taste the Difference \u0026 organic"
+            },
+            {
+                "id": "355376",
+                "name": "Stock up"
+            },
+            {
+                "id": "441363",
+                "name": "Special offers"
+            },
+            {
+                "id": "417428",
+                "name": "Six Nations with Guinness"
+            },
+            {
+                "id": "383896",
+                "name": "Sides"
+            },
+            {
+                "id": "410358",
+                "name": "Special offers"
+            },
+            {
+                "id": "410370",
+                "name": "Special offers"
+            },
+            {
+                "id": "428984",
+                "name": "Coleslaw \u0026 salads"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "461871",
+                "name": "Vegetarian \u0026 plant based"
+            },
+            {
+                "id": "463860",
+                "name": "Fruits \u0026 vegetables"
+            },
+            {
+                "id": "410853",
+                "name": "Cosy night in"
+            },
+            {
+                "id": "383897",
+                "name": "Snacks \u0026 dips"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "440360",
+                "name": "Taste the Difference"
+            },
+            {
+                "id": "428384",
+                "name": "Special offers"
+            },
+            {
+                "id": "478373",
+                "name": "Lunchtime inspiration"
+            },
+            {
+                "id": "473508",
+                "name": "Picnic essentials"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7874963",
+        "favourite_uid": null,
+        "eans": [
+            "0000000296854"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's British Fresh Large Whole Chicken 1.9kg",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7874963/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-whole-chicken-19kg",
+        "unit_price": {
+            "price": 2.37,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 4.5,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542406",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542406\u0026productUid=7874963\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 49p:  Was £4.99 Now £4.50",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 4.99,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 5 days",
+                "text": "Typical life 5 days",
+                "alt_text": "Typical life 5 days",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7874963",
+            "total": 53,
+            "average_rating": 2.9245
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7874963/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "276035",
+                "name": "Top sellers"
+            },
+            {
+                "id": "310864",
+                "name": "All chicken"
+            },
+            {
+                "id": "310866",
+                "name": "Whole birds"
+            },
+            {
+                "id": "339356",
+                "name": "Chicken essentials"
+            },
+            {
+                "id": "350379",
+                "name": "Dinner"
+            },
+            {
+                "id": "356368",
+                "name": "Sunday lunch"
+            },
+            {
+                "id": "442353",
+                "name": "Price Lock"
+            },
+            {
+                "id": "424861",
+                "name": "Special offers"
+            },
+            {
+                "id": "410369",
+                "name": "Special offers"
+            },
+            {
+                "id": "434877",
+                "name": "Special offers"
+            },
+            {
+                "id": "453906",
+                "name": "All Christmas day food"
+            },
+            {
+                "id": "462356",
+                "name": "Special offers"
+            },
+            {
+                "id": "504862",
+                "name": "Easter lunch"
+            },
+            {
+                "id": "417391",
+                "name": "Price lockdown"
+            },
+            {
+                "id": "411855",
+                "name": "Build a roast dinner"
+            },
+            {
+                "id": "438352",
+                "name": "5x Nectar points"
+            },
+            {
+                "id": "500860",
+                "name": "Better for you meat \u0026 fish"
+            },
+            {
+                "id": "480356",
+                "name": "Price Lock"
+            },
+            {
+                "id": "478360",
+                "name": "Build a roast dinner"
+            },
+            {
+                "id": "533854",
+                "name": "Autumn Flavours"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "553875",
+                "name": "Father's Day meals"
+            },
+            {
+                "id": "565855",
+                "name": " Christmas essentials"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7732081",
+        "favourite_uid": null,
+        "eans": [
+            "0000000195973"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's Breaded Yorkshire Cured Cooked British Ham Slices, Taste the Difference x4 120g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7732081/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-breaded-yorkshire-ham--taste-the-difference-120g-7732081-p-44",
+        "unit_price": {
+            "price": 1.88,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 2.25,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542693",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542693\u0026productUid=7732081\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 75p:  Was £3.00 Now £2.25",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 3,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 2 weeks",
+                "text": "Typical life 2 weeks",
+                "alt_text": "Typical life 2 weeks",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7732081",
+            "total": 12,
+            "average_rating": 4.3333
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7732081/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267518",
+                "name": "Ham"
+            },
+            {
+                "id": "267523",
+                "name": "Taste the Difference"
+            },
+            {
+                "id": "314852",
+                "name": "All Taste the Difference"
+            },
+            {
+                "id": "267532",
+                "name": "All cooked meats \u0026 pate"
+            },
+            {
+                "id": "279822",
+                "name": "Special offers"
+            },
+            {
+                "id": "314371",
+                "name": "All ham, cooked meats \u0026 pâté"
+            },
+            {
+                "id": "314372",
+                "name": "Ham"
+            },
+            {
+                "id": "314381",
+                "name": "Taste the Difference \u0026 organic"
+            },
+            {
+                "id": "314860",
+                "name": "Ready to eat"
+            },
+            {
+                "id": "355438",
+                "name": "Pancake Day"
+            },
+            {
+                "id": "383902",
+                "name": "Trending"
+            },
+            {
+                "id": "410370",
+                "name": "Special offers"
+            },
+            {
+                "id": "428981",
+                "name": "Cooked meats"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428384",
+                "name": "Special offers"
+            },
+            {
+                "id": "494365",
+                "name": "100s of prices dropped"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "478373",
+                "name": "Lunchtime inspiration"
+            },
+            {
+                "id": "500880",
+                "name": "Taste The Difference"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7103166",
+        "favourite_uid": null,
+        "eans": [
+            "0000001681383"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's British Honey Roast Cooked Ham Slices x7 120g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7103166/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-british-honey-roast-ham-120g",
+        "unit_price": {
+            "price": 1.46,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 1.75,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542709",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542709\u0026productUid=7103166\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 50p:  Was £2.25 Now £1.75",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 2.25,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 12 days",
+                "text": "Typical life 12 days",
+                "alt_text": "Typical life 12 days",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7103166",
+            "total": 17,
+            "average_rating": 2.4706
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7103166/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267518",
+                "name": "Ham"
+            },
+            {
+                "id": "276035",
+                "name": "Top sellers"
+            },
+            {
+                "id": "267532",
+                "name": "All cooked meats \u0026 pate"
+            },
+            {
+                "id": "279822",
+                "name": "Special offers"
+            },
+            {
+                "id": "238889",
+                "name": "Savoury toppings"
+            },
+            {
+                "id": "314371",
+                "name": "All ham, cooked meats \u0026 pâté"
+            },
+            {
+                "id": "314372",
+                "name": "Ham"
+            },
+            {
+                "id": "356369",
+                "name": "Afternoon tea"
+            },
+            {
+                "id": "424861",
+                "name": "Special offers"
+            },
+            {
+                "id": "383902",
+                "name": "Trending"
+            },
+            {
+                "id": "410370",
+                "name": "Special offers"
+            },
+            {
+                "id": "428981",
+                "name": "Cooked meats"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "438352",
+                "name": "5x Nectar points"
+            },
+            {
+                "id": "428384",
+                "name": "Special offers"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "478373",
+                "name": "Lunchtime inspiration"
+            },
+            {
+                "id": "473508",
+                "name": "Picnic essentials"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7511786",
+        "favourite_uid": null,
+        "eans": [
+            "5000295142893"
+        ],
+        "product_type": "BASIC",
+        "name": "Cathedral City Mature Cheddar Cheese 350g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7511786/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/cathedral-city-mature-350g",
+        "unit_price": {
+            "price": 8.57,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 3,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542385",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542385\u0026productUid=7511786\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £3.00: Save £1.20",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 4.2,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7511786",
+            "total": 29,
+            "average_rating": 4.1379
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7511786/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "339362",
+                "name": "All"
+            },
+            {
+                "id": "339363",
+                "name": "Block cheddar"
+            },
+            {
+                "id": "339360",
+                "name": "All cheese"
+            },
+            {
+                "id": "339861",
+                "name": "Special offers"
+            },
+            {
+                "id": "428991",
+                "name": "Top rated"
+            },
+            {
+                "id": "428878",
+                "name": "Eid Mubarak"
+            },
+            {
+                "id": "428900",
+                "name": "Cheddar \u0026 British regional cheese"
+            },
+            {
+                "id": "410383",
+                "name": "Special offers"
+            },
+            {
+                "id": "410361",
+                "name": "Special offers"
+            },
+            {
+                "id": "410368",
+                "name": "Special offers"
+            },
+            {
+                "id": "450357",
+                "name": "All Christmas"
+            },
+            {
+                "id": "428899",
+                "name": "All cheese"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428376",
+                "name": "Special offers"
+            },
+            {
+                "id": "463873",
+                "name": "Special offers (valid for deliveries until 22nd November)"
+            },
+            {
+                "id": "388363",
+                "name": "Special offers"
+            },
+            {
+                "id": "387890",
+                "name": "All cheese"
+            },
+            {
+                "id": "387891",
+                "name": "Cheddar \u0026 British regional cheese"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            },
+            {
+                "id": "561852",
+                "name": "Build a Cheeseboard"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7554911",
+        "favourite_uid": null,
+        "eans": [
+            "0000001834581"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's Wafer Thin Air Dried British Ham Slices, Taste the Difference 120g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7554911/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-air-dried-lean-ham-finely-sliced--taste-the-difference-120g",
+        "unit_price": {
+            "price": 1.88,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 2.25,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542693",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542693\u0026productUid=7554911\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 75p:  Was £3.00 Now £2.25",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 3,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 2 weeks",
+                "text": "Typical life 2 weeks",
+                "alt_text": "Typical life 2 weeks",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7554911",
+            "total": 45,
+            "average_rating": 3.4
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7554911/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267518",
+                "name": "Ham"
+            },
+            {
+                "id": "267523",
+                "name": "Taste the Difference"
+            },
+            {
+                "id": "276035",
+                "name": "Top sellers"
+            },
+            {
+                "id": "314852",
+                "name": "All Taste the Difference"
+            },
+            {
+                "id": "314856",
+                "name": "Pork \u0026 gammon"
+            },
+            {
+                "id": "267532",
+                "name": "All cooked meats \u0026 pate"
+            },
+            {
+                "id": "279822",
+                "name": "Special offers"
+            },
+            {
+                "id": "238889",
+                "name": "Savoury toppings"
+            },
+            {
+                "id": "314371",
+                "name": "All ham, cooked meats \u0026 pâté"
+            },
+            {
+                "id": "314372",
+                "name": "Ham"
+            },
+            {
+                "id": "314381",
+                "name": "Taste the Difference \u0026 organic"
+            },
+            {
+                "id": "314860",
+                "name": "Ready to eat"
+            },
+            {
+                "id": "356369",
+                "name": "Afternoon tea"
+            },
+            {
+                "id": "424861",
+                "name": "Special offers"
+            },
+            {
+                "id": "387852",
+                "name": "£3 \u0026 under"
+            },
+            {
+                "id": "410370",
+                "name": "Special offers"
+            },
+            {
+                "id": "410380",
+                "name": "Special offers"
+            },
+            {
+                "id": "428981",
+                "name": "Cooked meats"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "465352",
+                "name": "Nectar prices"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "432368",
+                "name": "Special offers"
+            },
+            {
+                "id": "438352",
+                "name": "5x Nectar points"
+            },
+            {
+                "id": "428384",
+                "name": "Special offers"
+            },
+            {
+                "id": "494365",
+                "name": "100s of prices dropped"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "478373",
+                "name": "Lunchtime inspiration"
+            },
+            {
+                "id": "565855",
+                "name": " Christmas essentials"
+            },
+            {
+                "id": "500880",
+                "name": "Taste The Difference"
+            },
+            {
+                "id": "473508",
+                "name": "Picnic essentials"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7640075",
+        "favourite_uid": null,
+        "eans": [
+            "0000000118248"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's Thick Unsmoked Back Bacon Rashers x6 300g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7640075/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-thick-unsmoked-bacon-rasher-x6-300g",
+        "unit_price": {
+            "price": 5.84,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 1.75,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542666",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542666\u0026productUid=7640075\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 25p:  Was £2.00 Now £1.75",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 2,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 7 days",
+                "text": "Typical life 7 days",
+                "alt_text": "Typical life 7 days",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7640075",
+            "total": 45,
+            "average_rating": 2.4889
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7640075/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "13363",
+                "name": "Bacon"
+            },
+            {
+                "id": "276035",
+                "name": "Top sellers"
+            },
+            {
+                "id": "410380",
+                "name": "Special offers"
+            },
+            {
+                "id": "434877",
+                "name": "Special offers"
+            },
+            {
+                "id": "438352",
+                "name": "5x Nectar points"
+            },
+            {
+                "id": "480353",
+                "name": "Bigger packs"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "553875",
+                "name": "Father's Day meals"
+            },
+            {
+                "id": "497366",
+                "name": "Meat \u0026 fish bigger packs"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "6027652",
+        "favourite_uid": null,
+        "eans": [
+            "5060360503387",
+            "5060058331346",
+            "5060360506166"
+        ],
+        "product_type": "BASIC",
+        "name": "Activia Rhubarb Yogurts 4x115g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/6027652/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/activia-bio-yogurt-rhubarb-4x125g",
+        "unit_price": {
+            "price": 0.33,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 1.5,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542969",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542969\u0026productUid=6027652\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £1.50: Save 80p",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 2.3,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "6027652",
+            "total": 47,
+            "average_rating": 4.5532
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/6027652/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "272792",
+                "name": "All yogurts"
+            },
+            {
+                "id": "273755",
+                "name": "Multipacks"
+            },
+            {
+                "id": "267443",
+                "name": "Activia"
+            },
+            {
+                "id": "279813",
+                "name": "Special offers"
+            },
+            {
+                "id": "356381",
+                "name": "Active health yogurt \u0026 drinks"
+            },
+            {
+                "id": "467374",
+                "name": "Light \u0026 Free, Actimel, Activia \u0026 Oykos"
+            },
+            {
+                "id": "428918",
+                "name": "All yogurts"
+            },
+            {
+                "id": "428921",
+                "name": "Multipack yogurt"
+            },
+            {
+                "id": "428922",
+                "name": "Immune \u0026 Gut Health support"
+            },
+            {
+                "id": "388365",
+                "name": "Special offers"
+            },
+            {
+                "id": "387899",
+                "name": "All yogurts"
+            },
+            {
+                "id": "387904",
+                "name": "Multipacks"
+            },
+            {
+                "id": "410383",
+                "name": "Special offers"
+            },
+            {
+                "id": "410361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387900",
+                "name": "Active health yogurt \u0026 drinks"
+            },
+            {
+                "id": "463874",
+                "name": "Special offers (valid for deliveries until 22nd November)"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428376",
+                "name": "Special offers"
+            },
+            {
+                "id": "467376",
+                "name": "Gut loving food"
+            },
+            {
+                "id": "397868",
+                "name": "Danone"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "523860",
+                "name": "Activia happy gut happy you"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7815051",
+        "favourite_uid": null,
+        "eans": [
+            "0000000251136"
+        ],
+        "product_type": "BASIC",
+        "name": "Deli Express British Drury Lane Cooked Ham Slices x4 150g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7815051/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-drury-lane-ham-150g",
+        "unit_price": {
+            "price": 1.5,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 2.25,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542706",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542706\u0026productUid=7815051\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 50p:  Was £2.75 Now £2.25",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 2.75,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 12 days",
+                "text": "Typical life 12 days",
+                "alt_text": "Typical life 12 days",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7815051",
+            "total": 29,
+            "average_rating": 2.8966
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7815051/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267518",
+                "name": "Ham"
+            },
+            {
+                "id": "267532",
+                "name": "All cooked meats \u0026 pate"
+            },
+            {
+                "id": "279822",
+                "name": "Special offers"
+            },
+            {
+                "id": "314371",
+                "name": "All ham, cooked meats \u0026 pâté"
+            },
+            {
+                "id": "314372",
+                "name": "Ham"
+            },
+            {
+                "id": "356369",
+                "name": "Afternoon tea"
+            },
+            {
+                "id": "424861",
+                "name": "Special offers"
+            },
+            {
+                "id": "410370",
+                "name": "Special offers"
+            },
+            {
+                "id": "428981",
+                "name": "Cooked meats"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428384",
+                "name": "Special offers"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "478358",
+                "name": "Summer eating"
+            },
+            {
+                "id": "565855",
+                "name": " Christmas essentials"
+            },
+            {
+                "id": "473508",
+                "name": "Picnic essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "1167351",
+        "favourite_uid": null,
+        "eans": [
+            "0000001167351"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's British Pork Sausages, Taste the Difference x6 400g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/1167351/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-ultimate-pork-saus--taste-the-difference-x6-400g",
+        "unit_price": {
+            "price": 6.88,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 2.75,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542817",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542817\u0026productUid=1167351\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 50p:  Was £3.25 Now £2.75",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 3.25,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 5 days",
+                "text": "Typical life 5 days",
+                "alt_text": "Typical life 5 days",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "1167351",
+            "total": 69,
+            "average_rating": 2.8551
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/1167351/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "263761",
+                "name": "Sausages"
+            },
+            {
+                "id": "276035",
+                "name": "Top sellers"
+            },
+            {
+                "id": "276041",
+                "name": "Sausages"
+            },
+            {
+                "id": "276042",
+                "name": "Taste the Difference"
+            },
+            {
+                "id": "346870",
+                "name": "Christmas dinner"
+            },
+            {
+                "id": "434365",
+                "name": "Full English breakfast"
+            },
+            {
+                "id": "456856",
+                "name": "Special offers"
+            },
+            {
+                "id": "431852",
+                "name": "BBQ"
+            },
+            {
+                "id": "417428",
+                "name": "Six Nations with Guinness"
+            },
+            {
+                "id": "379862",
+                "name": "All burgers \u0026 BBQ"
+            },
+            {
+                "id": "383904",
+                "name": "All BBQ meat \u0026 fish"
+            },
+            {
+                "id": "383906",
+                "name": "Sausages"
+            },
+            {
+                "id": "387852",
+                "name": "£3 \u0026 under"
+            },
+            {
+                "id": "410368",
+                "name": "Special offers"
+            },
+            {
+                "id": "410369",
+                "name": "Special offers"
+            },
+            {
+                "id": "434877",
+                "name": "Special offers"
+            },
+            {
+                "id": "450357",
+                "name": "All Christmas"
+            },
+            {
+                "id": "453906",
+                "name": "All Christmas day food"
+            },
+            {
+                "id": "494353",
+                "name": "Party food"
+            },
+            {
+                "id": "434363",
+                "name": "BBQ"
+            },
+            {
+                "id": "434364",
+                "name": "Pub lunch"
+            },
+            {
+                "id": "465352",
+                "name": "Nectar prices"
+            },
+            {
+                "id": "448384",
+                "name": "Upgrade your breakfast"
+            },
+            {
+                "id": "364353",
+                "name": "Breakfast \u0026 brunch"
+            },
+            {
+                "id": "432368",
+                "name": "Special offers"
+            },
+            {
+                "id": "431864",
+                "name": "Summer is coming"
+            },
+            {
+                "id": "431865",
+                "name": "BBQ \u0026 Tapas"
+            },
+            {
+                "id": "551862",
+                "name": "Best of British"
+            },
+            {
+                "id": "553874",
+                "name": "Fathers Day activities"
+            },
+            {
+                "id": "478361",
+                "name": "Pub food \u0026 drink"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "478359",
+                "name": "BBQ"
+            },
+            {
+                "id": "551858",
+                "name": "Sourced in Britain"
+            },
+            {
+                "id": "553875",
+                "name": "Father's Day meals"
+            },
+            {
+                "id": "565855",
+                "name": " Christmas essentials"
+            },
+            {
+                "id": "474582",
+                "name": "Easter BBQ \u0026 Picnic"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "2000572",
+        "favourite_uid": null,
+        "eans": [
+            "5010137012505",
+            "0000000057486"
+        ],
+        "product_type": "BASIC",
+        "name": "Anchor Salted Block Butter 250g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/2000572/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/anchor-butter--original-250g",
+        "unit_price": {
+            "price": 8,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 2,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10541389",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10541389\u0026productUid=2000572\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £2.00: Save 45p",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 2.45,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "2000572",
+            "total": 8,
+            "average_rating": 4
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/2000572/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267412",
+                "name": "Block butter"
+            },
+            {
+                "id": "267410",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "274772",
+                "name": "Special offers"
+            },
+            {
+                "id": "355438",
+                "name": "Pancake Day"
+            },
+            {
+                "id": "388361",
+                "name": "Special offers"
+            },
+            {
+                "id": "434365",
+                "name": "Full English breakfast"
+            },
+            {
+                "id": "387879",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "387881",
+                "name": "Block butter"
+            },
+            {
+                "id": "428875",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "428877",
+                "name": "Block butter"
+            },
+            {
+                "id": "410383",
+                "name": "Special offers"
+            },
+            {
+                "id": "410361",
+                "name": "Special offers"
+            },
+            {
+                "id": "434877",
+                "name": "Special offers"
+            },
+            {
+                "id": "494358",
+                "name": "Baking"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428376",
+                "name": "Special offers"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "553875",
+                "name": "Father's Day meals"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "2194769",
+        "favourite_uid": null,
+        "eans": [
+            "5000295008069"
+        ],
+        "product_type": "BASIC",
+        "name": "Clover Butter Spread 500g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/2194769/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/clover-spread-500g",
+        "unit_price": {
+            "price": 3.5,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 1.75,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10541309",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10541309\u0026productUid=2194769\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £1.75: Save 70p",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 2.45,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "2194769",
+            "total": 17,
+            "average_rating": 4.4706
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/2194769/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267413",
+                "name": "Buttery taste \u0026 sunflower spreads"
+            },
+            {
+                "id": "267410",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "274772",
+                "name": "Special offers"
+            },
+            {
+                "id": "388361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387879",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "428875",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "428879",
+                "name": "Buttery taste \u0026 sunflower spreads"
+            },
+            {
+                "id": "410383",
+                "name": "Special offers"
+            },
+            {
+                "id": "410361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387882",
+                "name": "Buttery taste \u0026 sunflower spreads"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428376",
+                "name": "Special offers"
+            },
+            {
+                "id": "463872",
+                "name": "Special offers (valid for deliveries until 25th March)"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7977462",
+        "favourite_uid": null,
+        "eans": [
+            "0000000366717"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's British Fresh Chicken Breast Fillets Skinless \u0026 Boneless 1.6kg",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7977462/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-chicken-breast-fillets-16kg",
+        "unit_price": {
+            "price": 5.31,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 8.5,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542407",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542407\u0026productUid=7977462\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save £1.15:  Was £9.65 Now £8.50",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 9.65,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 4 days",
+                "text": "Typical life 4 days",
+                "alt_text": "Typical life 4 days",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "BRITISH",
+                "text": "BRITISH",
+                "alt_text": "BRITISH",
+                "color": "#4c4c4c",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7977462",
+            "total": 555,
+            "average_rating": 3.0649
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7977462/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "310864",
+                "name": "All chicken"
+            },
+            {
+                "id": "310865",
+                "name": "Chicken breast \u0026 fillet"
+            },
+            {
+                "id": "417391",
+                "name": "Price lockdown"
+            },
+            {
+                "id": "500860",
+                "name": "Better for you meat \u0026 fish"
+            },
+            {
+                "id": "480353",
+                "name": "Bigger packs"
+            },
+            {
+                "id": "480356",
+                "name": "Price Lock"
+            },
+            {
+                "id": "497366",
+                "name": "Meat \u0026 fish bigger packs"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "7916746",
+        "favourite_uid": null,
+        "eans": [
+            "0000000328586"
+        ],
+        "product_type": "BASIC",
+        "name": "Sainsbury's ASC Scottish Mild Smoked Salmon 100g (Ready to Eat)",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7916746/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-mild-smoked-salmon-100g",
+        "unit_price": {
+            "price": 3.25,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 3.25,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10543161",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10543161\u0026productUid=7916746\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Save 25p:  Was £3.50 Now £3.25",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 3.5,
+                "promo_mechanic_id": "2"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Typical life 9 days",
+                "text": "Typical life 9 days",
+                "alt_text": "Typical life 9 days",
+                "color": "#218234",
+                "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+                "link_opens_in_new_window": false
+            },
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "7916746",
+            "total": 36,
+            "average_rating": 2.5
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7916746/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "13345",
+                "name": "All fish \u0026 seafood"
+            },
+            {
+                "id": "276035",
+                "name": "Top sellers"
+            },
+            {
+                "id": "314363",
+                "name": "Salmon, tuna \u0026 trout"
+            },
+            {
+                "id": "314367",
+                "name": "Smoked salmon \u0026 smoked fish"
+            },
+            {
+                "id": "314369",
+                "name": "Ready to eat"
+            },
+            {
+                "id": "356369",
+                "name": "Afternoon tea"
+            },
+            {
+                "id": "346853",
+                "name": "Christmas party food"
+            },
+            {
+                "id": "352859",
+                "name": "Party food"
+            },
+            {
+                "id": "350379",
+                "name": "Dinner"
+            },
+            {
+                "id": "346852",
+                "name": "All Christmas party"
+            },
+            {
+                "id": "369359",
+                "name": "Smoked salmon \u0026 smoked fish"
+            },
+            {
+                "id": "424861",
+                "name": "Special offers"
+            },
+            {
+                "id": "410368",
+                "name": "Special offers"
+            },
+            {
+                "id": "450357",
+                "name": "All Christmas"
+            },
+            {
+                "id": "453906",
+                "name": "All Christmas day food"
+            },
+            {
+                "id": "462356",
+                "name": "Special offers"
+            },
+            {
+                "id": "428981",
+                "name": "Cooked meats"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "432368",
+                "name": "Special offers"
+            },
+            {
+                "id": "438352",
+                "name": "5x Nectar points"
+            },
+            {
+                "id": "428384",
+                "name": "Special offers"
+            },
+            {
+                "id": "494365",
+                "name": "100s of prices dropped"
+            },
+            {
+                "id": "474595",
+                "name": "Meat \u0026 fish essentials"
+            },
+            {
+                "id": "478358",
+                "name": "Summer eating"
+            },
+            {
+                "id": "537366",
+                "name": "Christmas"
+            },
+            {
+                "id": "565855",
+                "name": " Christmas essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "2444888",
+        "favourite_uid": null,
+        "eans": [
+            "8719200070622",
+            "5000241006156",
+            "5000118075759",
+            "8719200237902"
+        ],
+        "product_type": "BASIC",
+        "name": "Bertolli Olive Oil Spread 450g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/2444888/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/bertolli-500g",
+        "unit_price": {
+            "price": 5,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 2.25,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10541456",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10541456\u0026productUid=2444888\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £2.25: Save 60p",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 2.85,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "2444888",
+            "total": 105,
+            "average_rating": 4.2381
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/2444888/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267410",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "267414",
+                "name": "Olive spreads"
+            },
+            {
+                "id": "274772",
+                "name": "Special offers"
+            },
+            {
+                "id": "388361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387879",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "428875",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "428881",
+                "name": "Olive spreads"
+            },
+            {
+                "id": "417369",
+                "name": "Bertolli"
+            },
+            {
+                "id": "410383",
+                "name": "Special offers"
+            },
+            {
+                "id": "410361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387884",
+                "name": "Olive spreads"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428376",
+                "name": "Special offers"
+            },
+            {
+                "id": "463872",
+                "name": "Special offers (valid for deliveries until 25th March)"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "428883",
+                "name": "Bertolli"
+            },
+            {
+                "id": "474584",
+                "name": "First shop essentials"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "4131755",
+        "favourite_uid": null,
+        "eans": [
+            "5060360503363",
+            "5060058331971",
+            "3033491261022",
+            "5060360506128"
+        ],
+        "product_type": "BASIC",
+        "name": "Activia Strawberry Yogurts 4x115g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/4131755/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/activia-bio-yogurt-strawberry-4x125g",
+        "unit_price": {
+            "price": 0.33,
+            "measure": "g",
+            "measure_amount": 100
+        },
+        "retail_price": {
+            "price": 1.5,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542969",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542969\u0026productUid=4131755\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £1.50: Save 80p",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 2.3,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "4131755",
+            "total": 52,
+            "average_rating": 4.6538
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/4131755/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "272792",
+                "name": "All yogurts"
+            },
+            {
+                "id": "273755",
+                "name": "Multipacks"
+            },
+            {
+                "id": "267443",
+                "name": "Activia"
+            },
+            {
+                "id": "279813",
+                "name": "Special offers"
+            },
+            {
+                "id": "356381",
+                "name": "Active health yogurt \u0026 drinks"
+            },
+            {
+                "id": "467374",
+                "name": "Light \u0026 Free, Actimel, Activia \u0026 Oykos"
+            },
+            {
+                "id": "428918",
+                "name": "All yogurts"
+            },
+            {
+                "id": "428921",
+                "name": "Multipack yogurt"
+            },
+            {
+                "id": "428922",
+                "name": "Immune \u0026 Gut Health support"
+            },
+            {
+                "id": "388365",
+                "name": "Special offers"
+            },
+            {
+                "id": "387899",
+                "name": "All yogurts"
+            },
+            {
+                "id": "387904",
+                "name": "Multipacks"
+            },
+            {
+                "id": "410383",
+                "name": "Special offers"
+            },
+            {
+                "id": "410361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387900",
+                "name": "Active health yogurt \u0026 drinks"
+            },
+            {
+                "id": "463874",
+                "name": "Special offers (valid for deliveries until 22nd November)"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428376",
+                "name": "Special offers"
+            },
+            {
+                "id": "467376",
+                "name": "Gut loving food"
+            },
+            {
+                "id": "397868",
+                "name": "Danone"
+            },
+            {
+                "id": "523860",
+                "name": "Activia happy gut happy you"
+            },
+            {
+                "id": "478373",
+                "name": "Lunchtime inspiration"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    },
+    {
+        "product_uid": "3791790",
+        "favourite_uid": null,
+        "eans": [
+            "5740900400429",
+            "5740900815407",
+            "5740900815438"
+        ],
+        "product_type": "BASIC",
+        "name": "Lurpak Lighter Spreadable Blend of Butter \u0026 Rapeseed Oil 500g",
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/3791790/image.jpg",
+        "image_zoom": "",
+        "image_thumbnail": "",
+        "image_thumbnail_small": "",
+        "full_url": "https://www.sainsburys.co.uk/gol-ui/product/lurpak-lighter-slightly-salted-spreadable-500g",
+        "unit_price": {
+            "price": 7.5,
+            "measure": "kg",
+            "measure_amount": 1
+        },
+        "retail_price": {
+            "price": 3.75,
+            "measure": ""
+        },
+        "is_available": true,
+        "promotions": [
+            {
+                "promotion_uid": "10542535",
+                "icon": "",
+                "link": "/shop/PromotionDisplayView?promotionId=10542535\u0026productUid=3791790\u0026langId=44\u0026storeId=10151",
+                "strap_line": "Only £3.75: Save £1.25",
+                "start_date": "2022-11-02T00:00:00Z",
+                "end_date": "2022-11-22T00:00:00Z",
+                "original_price": 5,
+                "promo_mechanic_id": "4"
+            }
+        ],
+        "associations": [],
+        "is_alcoholic": false,
+        "relevancyRank": 1,
+        "is_spotlight": false,
+        "is_intolerant": false,
+        "is_mhra": false,
+        "badges": [],
+        "labels": [
+            {
+                "label_uid": "Chilled",
+                "text": "Chilled",
+                "alt_text": "Chilled",
+                "color": "#005096",
+                "link_opens_in_new_window": false
+            }
+        ],
+        "zone": null,
+        "department": null,
+        "reviews": {
+            "is_enabled": true,
+            "product_uid": "3791790",
+            "total": 18,
+            "average_rating": 3.6667
+        },
+        "breadcrumbs": [],
+        "details_html": "",
+        "assets": {
+            "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/3791790/image.jpg",
+            "images": [],
+            "video": []
+        },
+        "description": [],
+        "important_information": [],
+        "attachments": [],
+        "categories": [
+            {
+                "id": "267411",
+                "name": "Spreadable butter"
+            },
+            {
+                "id": "267410",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "274772",
+                "name": "Special offers"
+            },
+            {
+                "id": "388361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387879",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "428875",
+                "name": "All butter \u0026 spreads"
+            },
+            {
+                "id": "410383",
+                "name": "Special offers"
+            },
+            {
+                "id": "410361",
+                "name": "Special offers"
+            },
+            {
+                "id": "387880",
+                "name": "Spreadable butter"
+            },
+            {
+                "id": "428374",
+                "name": "Special offers"
+            },
+            {
+                "id": "428376",
+                "name": "Special offers"
+            },
+            {
+                "id": "463872",
+                "name": "Special offers (valid for deliveries until 25th March)"
+            },
+            {
+                "id": "474592",
+                "name": "Dairy \u0026 chilled essentials"
+            },
+            {
+                "id": "428876",
+                "name": "Spreadable butter"
+            },
+            {
+                "id": "497374",
+                "name": "Lurpak"
+            }
+        ],
+        "display_icons": [],
+        "pdp_deep_link": ""
+    }
+]
